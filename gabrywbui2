@@ -6,7 +6,7 @@
             "openbutton": 1,
             "hideicon": true,
             "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "iconurl": "https://i.imgur.com/J6QVuju.png",
             "disableicontext": false,
             "iconposition": 0,
             "icontextcolor": 0,
@@ -18,7 +18,7 @@
             {
                 "layout": 1,
                 "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/J6QVuju.png",
                 "content": [
                     {
                         "title": "Welcome to WBUI2!",
@@ -29,7 +29,7 @@
             {
                 "layout": 2,
                 "buttontext": "2 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/J6QVuju.png",
                 "content": [
                     {
                         "title": "Left title",
@@ -44,7 +44,7 @@
             {
                 "layout": 3,
                 "buttontext": "3 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/J6QVuju.png",
                 "content": [
                     {
                         "title": "Left title",
@@ -63,7 +63,7 @@
             {
                 "layout": 4,
                 "buttontext": "4 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/J6QVuju.png",
                 "content": [
                     {
                         "title": "Top left title",
